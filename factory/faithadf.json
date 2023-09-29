@@ -1,0 +1,17 @@
+{
+	"name": "faithadf",
+	"properties": {
+		"globalParameters": {
+			"GlobalParameter": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fae6d60b-1ad9-4a35-9344-acd5ceef67ab",
+		"tenantId": "cd6683a6-aa85-46cf-aeea-92d4a1477009"
+	}
+}
